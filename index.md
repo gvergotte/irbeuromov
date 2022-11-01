@@ -5,8 +5,8 @@ In this depository you will have the positibility to generate online your IRB fo
 
 ### Description
 
-- To fill the form use the .html file in the main branch of the repository. To save it, right click and save the .html file. To export as PDF, right clic and print the PDF.
-[IRB](https://github.com/gvergotte/irbeuromov/blob/f6358d9c956a3de9f8b20a72731be7a2c6126555/irbonline_v1.html)
+- To fill the form download the .html file in the main branch of the repository. To save it, right click and save the .html file. To export as PDF, right clic and print the PDF.
+
 
 - If you want to have a look at some examples, download the .pdf files from the repository (folder examples)
 
