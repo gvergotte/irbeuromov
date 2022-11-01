@@ -1,18 +1,19 @@
 ## Online system to fill the IRB form
 
-
 In this depository you will have the positibility to generate online your IRB form. This should be done and send by the HDR at the CER of the University of Montpellier [intranet/comite-dethique](https://cas.umontpellier.fr/cas/login?service=https://intranet.umontpellier.fr/comite-dethique-de-la-recherche/) and the laboratory board (in cc). All the forms should also follow the PGR and should be registered at [dpm](https://dmp.opidor.fr)
 
 ### Description
 
-- To fill the form download the .html file in the main branch of the repository. To save it, right click and save the .html file. To export as PDF, right clic and print the PDF.
-
+- To fill the form download the .html file in the main branch of the repository. 
+Open the .html file with your favorite browser.
+Extend text boxes if you need more place at some points (the bottom left corner).
+To save your project, right click on the page and save the .html file. 
+To export as PDF (for submission purpose), right clic and print the PDF.
 
 - If you want to have a look at some examples, download the .pdf files from the repository (folder examples)
 
 ### If you need more help
 Contact other people from the lab or send an email to : denis.mottet@umontpellier.fr
-
 
 ### Lead Team
 Denis Mottet, Gregoire Vergotte
