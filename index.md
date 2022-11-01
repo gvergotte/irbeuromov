@@ -25,7 +25,7 @@ Contact other people from the lab or send an email to : denis.mottet@umontpellie
 ### Lead Team
 Denis Mottet, Gregoire Vergotte
 
-### Reminder : follow the lab
+### Reminder: follow the lab
 
 **Twitter**: [twitter/Euromov](https://twitter.com/EuroMov)
 **Facebook**: [facebook/Euromov](https://www.facebook.com/EuroMov)
