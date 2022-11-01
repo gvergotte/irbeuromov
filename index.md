@@ -12,7 +12,7 @@ In this depository you will have the positibility to generate online your IRB fo
 5. To save your project, right click on the page and save the .html file. 
 6. To export as PDF (for submission purpose), right clic and print the PDF.
 
-- If you want to have a look at some examples, download the .pdf files from the repository (folder examples)
+- If you want to have a look at some examples, download the .pdf files from the repository (examples folder)
 
 ### If you need more help
 Contact other people from the lab or send an email to : denis.mottet@umontpellier.fr
