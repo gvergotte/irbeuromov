@@ -1,8 +1,7 @@
 ## Online system to fill the IRB form
 
 
-In this depository you will have the positibility to generate online your IRB form. This should be done and send by the HDR at the CER of the University of Montpellier [https://intranet.umontpellier.fr/comite-dethique-de-la-](https://intranet.umontpellier.fr/comite-dethique-de-la-
-recherche/) and the laboratory board (in cc). All the forms should also follow the PGR and should be registered at [dpm](https://dmp.opidor.fr)
+In this depository you will have the positibility to generate online your IRB form. This should be done and send by the HDR at the CER of the University of Montpellier [intranet/comite-dethique](https://cas.umontpellier.fr/cas/login?service=https://intranet.umontpellier.fr/comite-dethique-de-la-recherche/) and the laboratory board (in cc). All the forms should also follow the PGR and should be registered at [dpm](https://dmp.opidor.fr)
 
 ### Description
 
