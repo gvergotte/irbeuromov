@@ -4,12 +4,13 @@ In this depository you will have the positibility to generate online your IRB fo
 
 ### Description
 
-# To fill the form click on the left (View the Project on Github).
-Download the .html file in the main branch of the repository. 
-Open the .html file with your favorite browser.
-Extend text boxes if you need more place at some points (the bottom left corner).
-To save your project, right click on the page and save the .html file. 
-To export as PDF (for submission purpose), right clic and print the PDF.
+- To fill the form:
+1.Click on the left (View the Project on Github).
+2.Download the .html file in the main branch of the repository. 
+3.Open the .html file with your favorite browser.
+4.Extend text boxes if you need more place at some points (the bottom left corner).
+5.To save your project, right click on the page and save the .html file. 
+6.To export as PDF (for submission purpose), right clic and print the PDF.
 
 - If you want to have a look at some examples, download the .pdf files from the repository (folder examples)
 
