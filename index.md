@@ -3,8 +3,13 @@
 In this depository you will have the positibility to generate online your IRB form. This should be done and send by the HDR at the CER of the University of Montpellier [intranet/comite-dethique](https://cas.umontpellier.fr/cas/login?service=https://intranet.umontpellier.fr/comite-dethique-de-la-recherche/) and the laboratory board (in cc). All the forms should also follow the PGR and should be registered at [dpm](https://dmp.opidor.fr)
 
 ### Description
+- To fill the form online:
+1. Follow this link: [Online IRB form](http://htmlpreview.github.io/?https://github.com/gvergotte/irbeuromov/blob/main/irbonline_v1.html)
+2. Extend text boxes if you need more place at some points (the bottom left corner).
+3. To save your project, right click on the page and save the .html file. 
+4. To export as PDF (for submission purpose), right clic and print the PDF.
 
-- To fill the form:
+- To fill the form offline:
 1. Click on the left (View the Project on Github).
 2. Download the .html file in the main branch of the repository. 
 3. Open the .html file with your favorite browser.
