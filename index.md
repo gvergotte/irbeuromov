@@ -1,28 +1,28 @@
-## Welcome to the fNIRS Glossary Project
+## Online system to fill the IRB form
 
 
-The fNIRS Glossary project is intended to develop a community-sourced glossary (i.e., useful nomenclature) of terms relating to functional near-infrared spectroscopy (fNIRS) via a consensus-based methodology. We invite all fNIRS researchers to join the fNIRS Glossary Project by writing definitions, commenting on existing definitions, adding alternative definitions where applicable, and suggesting relevant references.
+In this depository you will have the positibility to generate online your IRB form. This should be done and send by the HDR at the CER of the University of Montpellier [https://intranet.umontpellier.fr/comite-dethique-de-la-](https://intranet.umontpellier.fr/comite-dethique-de-la-
+recherche/) and the laboratory board (in cc). All the forms should also follow the PGR and should be registered at [dpm](https://dmp.opidor.fr)
+
 ### Description
 
-A common understanding of terminologies is essential at all stages of the research process to facilitate effective communication and avoid confusions and/or misconceptions. However, this is particularly challenging in rapidly expanding fields such as functional near-infrared spectroscopy (fNIRS) including researchers with different backgrounds and fields of applications. Therefore, the fNIRS Glossary Project intends to develop a community-sourced glossary (i.e., useful nomenclature) of terms relating to fNIRS as a technology as well as 
-- the experimental design
-- pre-processing 
-- data analysis of fNIRS experiments.
+- To fill the form use the .html file in the main branch of the repository. To save it, right click and save the .html file. To export as PDF, right clic and print the PDF.
+
+
+- If you want to have a look at some examples, download the .pdf files from the repository (folder examples)
+
+### If you need more help
+Contact other people from the lab or send an email to : denis.mottet@umontpellier.fr
+
 
 ### Lead Team
-Katharina Stute, Louisa Gossé, Samuel Montero-Hernandez, Guy Perkins, Meryem A. Yücel
+Denis Mottet, Gregoire Vergotte
 
-**Interested in contributing?** [Link to register via Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSfEhy2wh5RHyUDCGlITK2eJoHyV0n4IkfESzsg0kmr_UbFbLw/viewform)
-<!---
-**Learn more about the project:** Have a look at our [Read-me](https://docs.google.com/document/d/1lY1PvPA93LeiVKIwZlrGvQEJN3wboblK/edit)
--->
-**Contact us:** fnirsglossaryproject@gmail.com
+### Reminder : follow the lab
 
-**Follow us on Twitter**: [twitter.com/fNIRSglossary](https://twitter.com/fNIRSglossary)
-
-
-_This project is inspired by the Glossary Project of the Framework for Open and Responsible Research Training ([FORRT](https://forrt.org/glossary/))_ 
-
+**Twitter**: [twitter/Euromov](https://twitter.com/EuroMov)
+**Facebook**: [facebook/Euromov](https://www.facebook.com/EuroMov)
+**Linkedin**: [linkedin/Euromov](https://www.linkedin.com/company/euromov-digital-health-in-motion/)
 
 
 
